@@ -1,8 +1,6 @@
 # Fork of sent 
 
-The [suckless sent](https://tools.suckless.org/sent/) presentation tool
-
-sent is a simple plaintext presentation tool.
+The [suckless sent](https://tools.suckless.org/sent/) presentation tool.
 
 sent does not need latex, libreoffice or any other fancy file format, it uses
 plaintext files to describe the slides and can include images via farbfeld.
