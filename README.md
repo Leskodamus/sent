@@ -20,7 +20,7 @@ images in your presentations.
 ### Patches
 
 - cmdline options
-- invertedcolors
+- inverted colors
 - progress bar
 - toggle scm
 
