@@ -1,3 +1,7 @@
+# Fork of sent 
+
+The [suckless sent](https://tools.suckless.org/sent/) presentation tool
+
 sent is a simple plaintext presentation tool.
 
 sent does not need latex, libreoffice or any other fancy file format, it uses
@@ -12,6 +16,13 @@ worry about alignment. Instead you can really concentrate on the content.
 
 You need Xlib and Xft to build sent and the farbfeld tools installed to use
 images in your presentations.
+
+### Patches
+
+- cmdline options
+- invertedcolors
+- progress bar
+- toggle scm
 
 ### Demo
 
@@ -48,9 +59,3 @@ with `#` will be ignored. A `\` at the beginning of the line escapes `@` and
 	
 	thanks / questions?
 
-### Patches
-
-- cmdline options
-- invertedcolors
-- progress bar
-- toggle scm
